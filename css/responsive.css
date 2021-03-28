@@ -1,0 +1,424 @@
+/*Large devicese*/
+@media only screen and (max-width: 1268px) {
+    .serviceWrap h5 {
+        font-size: 16px;
+        margin-bottom: 18px;
+    } 
+    .serviceWrap .service p {
+        font-size: 13px;
+    } 
+    .serviceWrap img {
+        width: 84px;
+    } 
+    .eventCont ul li {
+        margin-bottom: 8px;
+        font-size: 13px;
+    } 
+    .eventBtn {
+        margin-top: 18px;
+    } 
+    .blogTab {
+        margin-right: 22px;
+    } 
+    .blogDetails p {
+        width: 90%;
+        font-size: 13px;
+    } 
+    .blogContent .date {
+        min-height: 215px;
+    }
+    .blogContent {
+        min-height: 215px;
+    } 
+    .date h3 {
+        font-size: 35px; 
+    }
+    .date p { 
+        font-size: 16px; 
+    }
+    .blogDetails h4 {
+        font-size: 20px; 
+    }
+    .blogDetails p {
+        width: 95%;
+        font-size: 12px;
+    }
+    .footerHead h2 {
+        font-size: 35px;
+    }
+    footer { 
+        padding: 90px 0;
+    }
+}
+@media only screen and (max-width: 1228px) {
+    .menuDrop { 
+        top: 79px;
+    }
+    .serviceSection {
+        padding: 65px 110px;
+    }
+    .eventBtn {
+        margin-top: 10px;
+    }
+    .logoWrap img {
+        width: 170px;
+    }
+    .iconWrap ul li a i { 
+        width: 40px;
+        height: 40px;
+    }
+    .bannerContent h3 {
+        font-size: 35px;
+    }
+    .eventContent {
+        padding: 0 25px;
+    }
+    .eventContent h4 { 
+        font-size: 21px;
+    }
+    .eventContent h5 { 
+        font-size: 22px; 
+    }
+    .testimony-content { 
+        padding: 90px 0;
+    }
+    .sliderUser i {
+        font-size: 120px;
+    }
+    .testContent p {
+        font-size: 17px; 
+    } 
+    .testContent b {
+        font-size: 20px; 
+    }
+    .eventWrap {
+        padding: 50px 95px;
+    }
+    .eventHeading {
+        font-size: 30px; 
+        margin-bottom: 30px; 
+    }
+    .eventCont h4 { 
+        font-size: 18px; 
+    }
+    .blogSection { 
+        padding: 70px 100px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .serviceWrap h5 {
+        font-size: 16px;
+        margin-bottom: 18px;
+    } 
+    .serviceWrap .service p {
+        font-size: 13px;
+    } 
+    .serviceWrap img {
+        width: 84px;
+    }  
+    .eventCont ul li {
+        margin-bottom: 3px;
+        font-size: 13px;
+    } 
+    .eventBtn {
+        margin-top: 18px;
+    } 
+    .blogTab {
+        margin-right: 25px;
+    } 
+    .blogDetails p {
+        width: 90%;
+        font-size: 13px;
+    } 
+    .blogContent .date {
+        min-height: 225px;
+    } 
+    .blogContent {
+        min-height: 225px;
+    } 
+    .eventContent {
+        padding: 0 25px;
+    } 
+    .eventContent h4 {
+        font-size: 21px;
+        margin-bottom: 20px;
+    } 
+    .eventContent h5 {
+        font-size: 20px;
+    } 
+    .commonBtn {
+        padding: 11px 22px;
+        font-size: 14px;
+    }
+    .eventContent h4 {
+        font-size: 20px; 
+    }
+    .serviceWrap { 
+        margin-top: 55px;
+    }
+    .serviceSection {
+        padding: 55px 90px;
+    }
+    .blogSection {
+        padding: 70px 78px;
+    }
+    .date h3 {
+        font-size: 29px;
+    }
+    .footerHead h2 {
+        font-size: 30px;
+    }
+    .menuDrop { 
+        top: 78px;
+    }
+}
+/*Tab*/
+@media only screen and (max-width: 992px) {
+    .navBar {
+        padding: 20px 45px;
+    }
+    .menuDrop{
+        padding: 20px 45px;
+    }
+    .bannerContent h3 {
+        font-size: 30px;
+    }
+    .bannerSection { 
+        padding: 120px 0;
+    }
+    .eventContent h4,.eventContent h5 { 
+        line-height: 36px;
+    } 
+    .serviceWrap .serviceLeftTab, .serviceWrap .serviceRightTab { 
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .testimony-content {
+        padding: 50px 0;
+    }
+    .sliderHeading {
+        font-size: 30px;
+    }
+    .sliderContent {
+        margin: 40px 0;
+        padding: 0 75px;
+    }
+    .sliderUser i {
+        font-size: 90px;
+    }
+    .testContent p {
+        font-size: 16px;
+        min-height: 75px;
+    }
+    .testContent b {
+        font-size: 18px;
+    }
+    .eventWrap {
+        padding: 45px 28px;
+    }
+    .eventHeading {
+        font-size: 26px; 
+    }
+    .eventCont h4 {
+        font-size: 15px;
+    }
+    .eventBtn .commonBtn { 
+        font-size: 12px; 
+    }
+    .eventBtn {
+        margin-top: 12px;
+    }
+    .eventBtn {
+        margin-top: 10px;
+    }
+    .commonHeading h3 { 
+        font-size: 24px;
+    }
+    .blogSection {
+        padding: 42px 25px;
+    }
+    .blogTab {
+        margin-right: 10px;
+    }
+    .date p {
+        font-size: 14px;
+    }
+    .blogDetails h4 {
+        font-size: 18px;
+    }
+    .blogDetails p { 
+        font-size: 12px;
+    }
+    footer {
+        padding: 50px 0;
+    }
+    .email input[type="text"] { 
+        padding: 12px;   
+        font-size: 13px; 
+    }
+    .email button { 
+        font-size: 13px;  
+        padding: 12px; 
+    }
+    .menuDrop { 
+        top: 78px;
+    }
+}
+/*Mobile*/
+@media only screen and (max-width: 767px) {
+    .navBar {
+        padding: 15px 15px;
+    }
+    .logoWrap img {
+        width: 130px;
+    }
+    .iconWrap ul li a i {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+    }
+    .menuWrap h5 {
+        display: none;
+    }
+    .menuWrap { 
+        padding: 6px 0;
+        margin-left: 10px;
+    }
+    .bannerSection {
+        padding: 55px 0;
+    }
+    .bannerContent h3 {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+    .bannerContent h4 { 
+        font-size: 15px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .eventContentWrap { 
+        width: 100%;
+    }
+    .eventContent h4 {
+        font-size: 13px;
+        font-weight: 700;
+    }
+    .eventContent h4, .eventContent h5 {
+        line-height: 27px;
+    }
+    .blogWrap { 
+        display: block;
+    }
+    .eventContent h5 {
+        font-size: 14px;
+    }
+    .eventContent h4 { 
+        margin-bottom: 0px;
+    }
+    .commonBtn {
+        padding: 7px 22px;
+        font-size: 13px;
+    }
+    .serviceSection {
+        padding: 30px 30px;
+    }
+    .commonHeading h4 { 
+        font-size: 20px;
+    }
+    .serviceWrap {
+        margin-top: 25px;
+    }
+    .serviceWrap img {
+        width: 75px;
+    }
+    .serviceWrap .serviceLeftTab img {
+        margin-left: 14px;
+    }
+    .serviceWrap .service p {
+        font-size: 12px;
+    }
+    .serviceWrap .serviceRightTab img {
+        margin-right: 14px;
+    }
+    .serviceWrap h5 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+    .testimony-content {
+        padding: 15px 0;
+    }
+    .sliderHeading {
+        font-size: 16px;
+    }
+    .sliderUser i {
+        font-size: 40px;
+    }
+    .sliderContent {
+        margin: 25px 0;
+        padding: 0 25px;
+    }
+    .sliderUser {
+        margin-bottom: 20px;
+    }
+    .testContent p {
+        font-size: 13px;
+        min-height: 51px;
+        margin-bottom: 5px;
+    }
+    .testContent b {
+        font-size: 14px;
+    }
+    .eventWrap {
+        padding: 32px 25px;
+    }
+    .eventHeading {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .thumbImg {
+        width: 100%; 
+    }
+    .eventCont { 
+        width: 100%; 
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .eventCont ul li { 
+        font-size: 12px;
+    }
+    .commonHeading h3 {
+        font-size: 20px;
+    }
+    .blogWrap { 
+        margin-top: 20px;
+    }
+    .blogTab {
+        margin-right: 0;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    .blogContent .date,.blogContent {
+        min-height: 165px;
+    }
+    footer {
+        padding: 20px 0;
+    }
+    .footerHead h2 {
+        font-size: 18px;
+    }
+    .email {
+        margin: 14px 0; 
+    }
+    .email input[type="text"] { 
+        width: 62%;
+    }
+    .email button { 
+        width: 25%; 
+    }
+    .footerMenu ul li a { 
+        padding: 0 10px;
+    }
+    .menuDrop { 
+        top: 55px;
+    }
+}
